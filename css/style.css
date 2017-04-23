@@ -24,16 +24,17 @@ body {
 	color: gray;
 	font-style: italic;
 	font-family: 'Open Sans';
-	font-size: 0.8rem;
+	font-size: 1rem;
 }
 
 .status {
 	color: black;
 	font-family: 'Roboto';
-	font-size: 2rem;
+	font-size: 4rem;
 }
 
 .exception {
 	color: black;
 	font-family: 'Open Sans';
+	font-size: 1.5rem;
 }
