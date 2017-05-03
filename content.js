@@ -1,1 +1,1 @@
-var status = "Sleeping";
+var status = "Studying";
